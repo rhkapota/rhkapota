@@ -11,15 +11,23 @@
 
 <!-- CONNECT -->
 <div align="center">
+	<!--
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+	-->
+	<a href="https://www.codingame.com/profile/e5e56c7585fda3b457056b85180a4d636850344">
+<picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="150px">
+</a><p align="center"><a href="https://www.codingame.com/profile/e5e56c7585fda3b457056b85180a4d636850344">
+	</a><a href="mailto:ahmed.7oskaa@gmail.com"><img img="" src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&amp;logo=gmail&amp;logoColor=white" alt="Gmail"></a>
+	<a href="https://github.com/7oSkaaa"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&amp;logo=github&amp;logoColor=white" alt="GitHub"></a>
+	<a href="https://wa.me/0201208822340"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&amp;logo=whatsapp&amp;logoColor=white" alt="Whatsapp"></a>
+	<a href="https://www.linkedin.com/in/7oskaa/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>
+	<a href="https://www.facebook.com/7oSkaaa"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&amp;logo=facebook&amp;logoColor=white" alt="Facebook"></a>
+	<a href="https://www.instagram.com/ahmed_7oskaa/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&amp;logo=instagram&amp;logoColor=white" alt="Instagram"></a>
+	<a href="https://msng.link/o/?ahmed.7oskaa=sc"><img src="https://img.shields.io/badge/snapchat-%23FFFC00.svg?style=plastic&amp;logo=snapchat&amp;logoColor=black" alt="Snap Chat"></a>
 </div>
 
-<!-- VISITOR -->
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=rhkapota.rhkapota&"  />
-</div>
 
 <!-- LIMITERS -->
 <h3 align="left">🛠 Language and tools</h3>
@@ -67,16 +75,7 @@
 	<a href="https://www.codechef.com/users/ahmed_7oskaa"><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="Code Chef"></a>
 	<a href="https://icpc.global/ICPCID/IW0X0CTD0ZV9"><img src="https://i.ibb.co/6J0r7rW/Daco-5610880.png" alt="ICPC Global" width="60px"></a>     
 	<a href="https://www.codingame.com/profile/e5e56c7585fda3b457056b85180a4d636850344"><img src="https://i.ibb.co/1MRppTC/codingame-1.png" alt="Codingame" width="100" height="50">
-</a></p><a href="https://www.codingame.com/profile/e5e56c7585fda3b457056b85180a4d636850344">
-<h2 id="---connect-with-me"><picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me</h2>
-</a><p align="center"><a href="https://www.codingame.com/profile/e5e56c7585fda3b457056b85180a4d636850344">
-	</a><a href="mailto:ahmed.7oskaa@gmail.com"><img img="" src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&amp;logo=gmail&amp;logoColor=white" alt="Gmail"></a>
-	<a href="https://github.com/7oSkaaa"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&amp;logo=github&amp;logoColor=white" alt="GitHub"></a>
-	<a href="https://wa.me/0201208822340"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&amp;logo=whatsapp&amp;logoColor=white" alt="Whatsapp"></a>
-	<a href="https://www.linkedin.com/in/7oskaa/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>
-	<a href="https://www.facebook.com/7oSkaaa"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&amp;logo=facebook&amp;logoColor=white" alt="Facebook"></a>
-	<a href="https://www.instagram.com/ahmed_7oskaa/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&amp;logo=instagram&amp;logoColor=white" alt="Instagram"></a>
-	<a href="https://msng.link/o/?ahmed.7oskaa=sc"><img src="https://img.shields.io/badge/snapchat-%23FFFC00.svg?style=plastic&amp;logo=snapchat&amp;logoColor=black" alt="Snap Chat"></a>
+</a></p>
 </p>
 <h2 id="️-my-skills">🛠️ My Skills</h2>
 <h3 id="----programming-languages"><picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width="50px">  </picture> Programming languages</h3>
