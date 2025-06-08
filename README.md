@@ -1,7 +1,6 @@
 <!-- HEADER -->
 <div align="center">
 <img src="./src/banner/1.gif"/>
-<img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif"/>
 </div>
 
@@ -289,5 +288,11 @@
 	<img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt="Snake Game">
 </p> 
 
-
-<p>Last Edited on: 08/05/2025</p> 
+<div align="center">
+  <p>Profile Views:</img></p>
+  <img width="280px" src="https://count.getloli.com/@:rhkapota?theme=booru-r6gdrawfriends">
+</div>
+<br>
+<div align="center">
+  <p>Updated on Sunday, June 8, 2025, 20:00 WIB</p>
+</div>
