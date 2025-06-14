@@ -120,10 +120,6 @@
 </p><p><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn’t reflect experience or skill level.</p>
   <p></p>
 </details>
-<details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
-<hr>
-<p><a href="https://github.com/rhkapota/github-readme-activity-graph"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=rhkapota&amp;theme=github" alt="7oSkaa's github activity graph"></a></p>
-</details>
 <details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
 <hr>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rhkapota&amp;layout=compact&amp;theme=tokyonight&amp;column=4&amp;margin-w=15&amp;margin-h=15" alt="rhkapota"></a> </p>
