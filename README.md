@@ -129,8 +129,8 @@
 <hr>
 <div>
   <p align="center">
-	<a href="https://github.com/rhkapota/komik">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=rhkapota&amp;repo=komik&amp;theme=tokyonight" alt="GitHub Stats">
+	<a href="https://github.com/rhkapota/portofolio">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=rhkapota&amp;repo=portofolio&amp;theme=tokyonight" alt="GitHub Stats">
     	</a>
   </p>
 </div>
