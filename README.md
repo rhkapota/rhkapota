@@ -13,9 +13,8 @@
 <a href="https://wa.me/6285254337661"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&amp;logo=whatsapp&amp;logoColor=white" alt="Whatsapp"</a>
 </div>
 
-
 <!-- ABOUT ME -->
-<h2 id="-about-me"><picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Imagebout_me.gif?raw=true" width="50px"></picture> About me</h2>
+<h2 id="-about-me"><q>About me</h2>
 <p><picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px"></picture></p>
 <p><br><br></p>
 <ul>
