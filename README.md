@@ -1,21 +1,16 @@
 <!-- HEADER -->
 <div align="center">
-<img src="./src/banner/1.gif"/>
 <img src="./src/logo/header.png"/>
+<img src="./src/banner/1.gif"/>
 </div>
 
 <!-- CONNECT -->
 <div align="center">
-	<a href="https://www.codingame.com/profile/e5e56c7585fda3b457056b85180a4d636850344">
-<picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="300px">
-</a><p align="center"><a href="https://www.codingame.com/profile/e5e56c7585fda3b457056b85180a4d636850344">
-	</a><a href="mailto:ahmed.7oskaa@gmail.com"><img img="" src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&amp;logo=gmail&amp;logoColor=white" alt="Gmail"></a>
-	<a href="https://github.com/7oSkaaa"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&amp;logo=github&amp;logoColor=white" alt="GitHub"></a>
-	<a href="https://wa.me/0201208822340"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&amp;logo=whatsapp&amp;logoColor=white" alt="Whatsapp"></a>
-	<a href="https://www.linkedin.com/in/7oskaa/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>
-	<a href="https://www.facebook.com/7oSkaaa"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&amp;logo=facebook&amp;logoColor=white" alt="Facebook"></a>
-	<a href="https://www.instagram.com/ahmed_7oskaa/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&amp;logo=instagram&amp;logoColor=white" alt="Instagram"></a>
-	<a href="https://msng.link/o/?ahmed.7oskaa=sc"><img src="https://img.shields.io/badge/snapchat-%23FFFC00.svg?style=plastic&amp;logo=snapchat&amp;logoColor=black" alt="Snap Chat"></a>
+<p align="center">
+<a href="https://www.codingame.com/profile/e5e56c7585fda3b457056b85180a4d636850344"></a>
+<a href="mailto:rhkapota@gmail.com"><img img="" src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&amp;logo=gmail&amp;logoColor=white" alt="Gmail"></a>
+<a href="https://github.com/rhkapota"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&amp;logo=github&amp;logoColor=white" alt="GitHub"></a>
+<a href="https://wa.me/6285254337661"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&amp;logo=whatsapp&amp;logoColor=white" alt="Whatsapp"</a>
 </div>
 
 
