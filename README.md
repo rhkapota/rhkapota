@@ -18,7 +18,7 @@
 <p><picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px"></picture></p>
 <p><br><br></p>
 <ul>
-<li>:student: I am a <code>Student</code> at <a href="https://ti.umy.ac.id/">Faculty of Engineering </a> in <a href="https://www.umy.ac.id/">Muhammadiyah University of Yogyakarta</a>.</li>
+<li>:student: I am a <code>Student</code> at <a href="https://ti.umy.ac.id/">Faculty of Engineering </a> in <a href="https://www.umy.ac.id/">University Muhammadiyah Yogyakarta</a>.</li>
 <li>:technologist: I love using Software as a solution for every <code>Problem</code>.</li>
 <li>:boom: You can visit <a href="">My Website</a>.
 <br>
