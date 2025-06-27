@@ -8,7 +8,6 @@
 <p align="center">
 <a href="https://www.codingame.com/profile/e5e56c7585fda3b457056b85180a4d636850344"></a>
 <a href="mailto:rhkapota@gmail.com"><img img="" src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&amp;logo=gmail&amp;logoColor=white" alt="Gmail"></a>
-<a href="https://github.com/rhkapota"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&amp;logo=github&amp;logoColor=white" alt="GitHub"></a>
 <a href="https://wa.me/6285254337661"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&amp;logo=whatsapp&amp;logoColor=white" alt="Whatsapp"</a>
 </div>
 
