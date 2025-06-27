@@ -1,6 +1,5 @@
 <!-- HEADER -->
 <div align="center">
-<img src="./src/logo/header.png"/>
 <img src="./src/banner/1.gif"/>
 </div>
 
