@@ -14,9 +14,9 @@
 <p><picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px"></picture></p>
 <p><br></p>
 <ul>
-<li>:student: Saya seorang <code>Mahasiswa</code> di <a href="https://www.umy.ac.id/">Universitas Muhammadiyah Yogyakarta</a>.</li>
-<li>:technologist: Saya hanya pemula di dunia <code>IT</code>.</li>
-<li>:boom: Lihat website saya [<a href="">Tap Here</a>]
+<li>:student: Currently studying cyber security.</li>
+<li>:technologist: Just a newbie in the <code>IT</code> world.</li>
+<li>:boom: See my <a href="">Portofolio</a>
 <br>
 </li>
 </ul>
@@ -30,18 +30,6 @@
   <a href="https://www.w3schools.com/css/" target="_blank"> 
     <img alt="CSS" src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=white">
   </a>
-  <a href="https://www.json.org/json-en.html" target="_blank"> 
-    <img alt="JSON" src="https://img.shields.io/badge/JSON-000?logo=json&logoColor=white">
-  </a>
-  <a href="https://www.w3schools.com/typescript/" target="_blank"> 
-    <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white">
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=plastic&amp;logo=c&amp;logoColor=white">
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&amp;logo=c%2B%2B&amp;logoColor=white">
-  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&amp;logo=javascript&amp;logoColor=black">
    </a>
@@ -53,8 +41,6 @@
 <p align="left">
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&amp;logo=git&amp;logoColor=white"></a>
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&amp;logo=github&amp;logoColor=white"></a>
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&amp;logo=stack-overflow&amp;logoColor=white"></a>
-    <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&amp;style=plastic&amp;logo=mysql&amp;logoColor=white"></a>
 	<a href="#"><img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff"></a>
 	<a href="#"><img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white"></a>
     <a href="#"><img src="https://img.shields.io/badge/Replit-F26207?logo=replit&logoColor=fff"></a>
@@ -89,7 +75,6 @@
 <details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
 <hr>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rhkapota&amp;layout=compact&amp;theme=tokyonight&amp;column=4&amp;margin-w=15&amp;margin-h=15" alt="rhkapota"></a> </p>
-<p><a href="https://holopin.io/@rhkapota"><img src="https://holopin.io/api/user/board?user=7oskaa" alt="@rhkapota Holopin board"></a></p>
 </details>
 <p><br><br></p>
 
