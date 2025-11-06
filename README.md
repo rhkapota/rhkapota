@@ -60,12 +60,12 @@
 <br>
 <p align="center">
 	<a href="https://github.com/rhkapota/github-readme-quotes"> <img alt="Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=tokyonight&amp;animation=grow_out_in&amp;quoteCategory=programming">
-</a></p><a href="https://github.com/rhkapota/github-readme-quotes">
+</a></p>
 
-</a><details><a href="https://github.com/rhkapota/github-readme-quotes"><summary><h3>💻 GitHub Profile Stats</h3></summary>
+</a><details><summary><h3>💻 GitHub Profile Stats</h3></summary>
 <hr>
-</a><p align="center"><a href="https://github.com/rhkapota/github-readme-quotes">
-    </a><a href="https://github.com/rhkapota/github-readme-stats">
+</a><p align="center">
+    </a>
 	    <img alt="Rhkapota Github Stats" src="https://github-readme-stats.vercel.app/api?username=rhkapota&amp;show_icons=true&amp;count_private=true&amp;locale=en&amp;theme=tokyonight&amp;layout=compact" height="230px"></a>
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rhkapota&amp;langs_count=10&amp;show_icons=true&amp;locale=en&amp;theme=tokyonight" alt="7oSkaaa" height="230px">
 <br>
@@ -74,7 +74,7 @@
 </details>
 <details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
 <hr>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rhkapota&amp;layout=compact&amp;theme=tokyonight&amp;column=4&amp;margin-w=15&amp;margin-h=15" alt="rhkapota"></a> </p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=rhkapota&amp;layout=compact&amp;theme=tokyonight&amp;column=4&amp;margin-w=15&amp;margin-h=15" alt="rhkapota"></a> </p>
 </details>
 <p><br><br></p>
 
