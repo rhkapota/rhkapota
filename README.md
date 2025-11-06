@@ -59,13 +59,13 @@
 </p>
 <br>
 <p align="center">
-	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt="Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=tokyonight&amp;animation=grow_out_in&amp;quoteCategory=programming">
-</a></p><a href="https://github.com/piyushsuthar/github-readme-quotes">
+	<a href="https://github.com/rhkapota/github-readme-quotes"> <img alt="Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=tokyonight&amp;animation=grow_out_in&amp;quoteCategory=programming">
+</a></p><a href="https://github.com/rhkapota/github-readme-quotes">
 
-</a><details><a href="https://github.com/piyushsuthar/github-readme-quotes"><summary><h3>💻 GitHub Profile Stats</h3></summary>
+</a><details><a href="https://github.com/rhkapota/github-readme-quotes"><summary><h3>💻 GitHub Profile Stats</h3></summary>
 <hr>
-</a><p align="center"><a href="https://github.com/piyushsuthar/github-readme-quotes">
-    </a><a href="https://github.com/anuraghazra/github-readme-stats">
+</a><p align="center"><a href="https://github.com/rhkapota/github-readme-quotes">
+    </a><a href="https://github.com/rhkapota/github-readme-stats">
 	    <img alt="Rhkapota Github Stats" src="https://github-readme-stats.vercel.app/api?username=rhkapota&amp;show_icons=true&amp;count_private=true&amp;locale=en&amp;theme=tokyonight&amp;layout=compact" height="230px"></a>
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rhkapota&amp;langs_count=10&amp;show_icons=true&amp;locale=en&amp;theme=tokyonight" alt="7oSkaaa" height="230px">
 <br>
