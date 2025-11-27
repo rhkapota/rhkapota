@@ -10,7 +10,6 @@
 		'Reading Novel'
 	],
 	use_language = [
-		'Indonesia',
 		'Javascript',
 		'Python'
 	]
